@@ -1,0 +1,7 @@
+{
+  "name": "fn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
